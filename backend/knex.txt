@@ -1,0 +1,17 @@
+//install knex
+yarn add knex
+
+//
+yarn add sqlite3
+
+//create knexfile
+npx knex init
+
+//create migrations
+npx knex migrate:make create_ongs
+
+//run migrate
+npx knex migrate:latest
+
+//undo
+npx knex migrate:rollback
