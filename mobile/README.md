@@ -2,9 +2,8 @@
 
 ## TELA INICIAL
 ### TELA EM QUE O USUÁRIO VÊ TODOS OS CASOS DISPONÍVEIS PARA AJUDAR
-![IMG_20200327_174845](https://user-images.githubusercontent.com/45233696/77799409-7f62cf80-7053-11ea-8d80-0bdc1d46d95d.jpg)
+![bbbb](https://user-images.githubusercontent.com/45233696/77799786-4a0ab180-7054-11ea-8116-77ee5a3442c3.jpg)
 
 
 ### TELA DE DO CASO E CONTATO
-![IMG_20200327_174233](https://user-images.githubusercontent.com/45233696/77799333-54787b80-7053-11ea-8b27-7cf8de85ceb9.jpg)
-
+![aa](https://user-images.githubusercontent.com/45233696/77799788-4b3bde80-7054-11ea-8d1c-00b18b0d5cce.jpg)
