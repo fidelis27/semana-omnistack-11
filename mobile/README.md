@@ -1,0 +1,10 @@
+## Aplicação BE THE HERO
+
+## TELA INICIAL
+# TELA EM QUE O USUÁRIO VÊ TODOS OS CASOS DISPONÍVEIS PARA AJUDAR
+![IMG_20200327_174845](https://user-images.githubusercontent.com/45233696/77799409-7f62cf80-7053-11ea-8d80-0bdc1d46d95d.jpg)
+
+
+## TELA DE DO CASO E CONTATO
+![IMG_20200327_174233](https://user-images.githubusercontent.com/45233696/77799333-54787b80-7053-11ea-8b27-7cf8de85ceb9.jpg)
+
